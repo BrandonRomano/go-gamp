@@ -5,10 +5,10 @@ import (
 	"io"
 	"io/ioutil"
 
+	"github.com/BrandonRomano/go-gamp/client"
+	"github.com/BrandonRomano/go-gamp/client/gampops"
 	"github.com/go-openapi/runtime"
 	httptransport "github.com/go-openapi/runtime/client"
-	"github.com/olebedev/go-gamp/client"
-	"github.com/olebedev/go-gamp/client/gampops"
 	"golang.org/x/time/rate"
 )
 

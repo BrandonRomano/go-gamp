@@ -11,7 +11,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	"github.com/olebedev/go-gamp/models"
+	"github.com/BrandonRomano/go-gamp/models"
 )
 
 // DebugCollectReader is a Reader for the DebugCollect structure.
